@@ -25,4 +25,3 @@
 1. make client
 2. ./client
 3. Intrudocir el mensaje para el servidor.
-4. 
