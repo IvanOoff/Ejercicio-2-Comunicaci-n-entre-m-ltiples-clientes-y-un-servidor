@@ -1,0 +1,18 @@
+# EXES
+CLIENT = client
+SERVER = server
+
+# COMPILADOR
+COMP = g++
+COMPFLAGS = -std=c++11 -pthread
+
+# COMPILAR TODO A LA VEZ
+all:
+	$(COMP) $(COMPFLAGS) server.cpp utils.cpp -o $(SERVER)
+	$(COMP) $(COMPFLAGS) client.cpp utils.cpp -o $(CLIENT)
+
+# CLEAN
+clean: 
+	rm -f $(SERVER) $(CLIENT)
+
+
