@@ -18,8 +18,8 @@
 <h1 align = "center"> INSTRUCCIONES DE COMPILACIÓN </h1>
 
 → SERVIDOR
-1. make server 
-2../server
+1. make server
+2. ./server
 
 → CLIENTE
 1. make client
