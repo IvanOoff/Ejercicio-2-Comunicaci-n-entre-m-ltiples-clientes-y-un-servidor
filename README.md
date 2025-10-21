@@ -20,7 +20,6 @@
 → SERVIDOR
 1. make server 
 2../server
-3.  
 
 → CLIENTE
 1. make client
