@@ -25,3 +25,7 @@
 1. make client
 2. ./client
 3. Intrudocir el mensaje para el servidor.
+
+
+<h1 align = "center"> EJEMPLOS </h1>
+<img width="1918" height="1077" alt="EJEMPLOS_TERMINAL" src="https://github.com/user-attachments/assets/1e160a88-dfac-48bc-b196-c6490095efa7" />
